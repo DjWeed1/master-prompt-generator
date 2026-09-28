@@ -16,11 +16,11 @@ npm run lint
 npm run build
 ```
 
-The project is configured for static hosting and uses a relative Vite base path, which keeps built assets portable across static hosting paths. citeturn126file0
+The project is configured for static hosting and uses a relative Vite base path, which keeps built assets portable across static hosting paths.
 
 ## Deployment
 
-The repository already contains a `gh-pages` deployment script. CI now validates the production build on pushes to `main` and pull requests before deployment work is considered ready. citeturn120file0
+The repository contains a `gh-pages` deployment script. CI now validates the production build on pushes to `main` and pull requests before deployment work is considered ready.
 
 ## Change Log
 

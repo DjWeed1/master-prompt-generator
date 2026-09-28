@@ -24,9 +24,9 @@ The repository contains a `gh-pages` deployment script. CI now validates the pro
 
 ## Change Log
 
-### 2026-09-28 03:xx Europe/Vienna (CEST) — CI / Portfolio / Maintenance
+### 2026-09-28 03:39 Europe/Vienna (CEST) — CI / Portfolio / Maintenance
 - Replaced the generic template README with project-specific documentation.
 - Added automated `npm ci`, lint and production-build validation for pull requests and `main` pushes.
 - Documented the static-hosting configuration and deployment workflow.
 
-> Time is recorded in Europe/Vienna; the repository change was made during this work session.
+> The timestamp uses the verified Europe/Vienna minute in which the change set's draft PR was created.
